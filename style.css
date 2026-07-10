@@ -5,3 +5,20 @@
     justify-content: center;
     align-items: center;
 }
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+div {
+    background-color: #1c0404;
+    color: #1024d9;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    text size: 4rem;
+    
+}
+span {
+    color: #0a0b6c;
+    font-size: 1.5rem;
+}
