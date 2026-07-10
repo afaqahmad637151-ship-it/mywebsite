@@ -7,7 +7,7 @@
 }
 body {
     margin: 0;
-    font-family: Arial, sans-serif;
+    font-family: Arial sans-serif;
 }
 div {
     background-color: #1c0404;
@@ -15,8 +15,7 @@ div {
     font-weight: bold;
     text-align: center;
     text-transform: uppercase;
-    text size: 4rem;
-    
+    font-size: 4rem;
 }
 span {
     color: #0a0b6c;
